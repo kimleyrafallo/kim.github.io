@@ -56,4 +56,4 @@ plugins:
 #   - vendor/ruby/
 # domain: zero2bugs.dev
 # url: https://zero2bugs.dev
-baseUrl: /
+baseurl: /zero2bugs
